@@ -4,7 +4,6 @@
 import sys
 
 # We have to have at least one Python file.
-
 # Setting return to None because this is kind of a no-operation function.
 def say_hello(name):
     print(f'In honor of Willie Mays (1931 - 2024), Say Hey {name}!')
