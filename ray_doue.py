@@ -13,4 +13,4 @@ def say_hello(name='Reuven Lerner'):
         f'And don\'t forget, Dave Parker was inducted into the Major League Baseball Hall of Fame on 27 Jul 2025 along '
         f'with others including Billy Wagner, CC Sabathia, Dick Allen, and Ichiro Suzuki.')
 
-    return None
+    return 'Executed some print statements.'
